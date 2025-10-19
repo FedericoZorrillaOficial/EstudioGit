@@ -1,2 +1,2 @@
 # EstudioGit
-Es un repositorio de puebas
+Es un repositorio de puebas ignorar
